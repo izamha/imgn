@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>imigani</title>
+</head>
+<body>
+    <div style="text-align: center; color: gray;">
+        <h1>Imigani y'Imigenurano.</h1>
+        <h2>Hano ufite amahirwe yo guhinduka inzu y'ibitabo,</h2>
+        <h2>Ubundi mu ruhando rw'Inzobere n'Inyigaguhuma ujy'uvuga ryijyane,</h2>
+        <h2>Uguca mu ijambo umwibutse ko <em>"Nyir'ururimi rubi yatanze umurozi gupfa."</em></h2>
+        <h2>Maze Winjire mu ruhando rw'aba <em>Msgr</em> Alex Kagame, Njyewe, n'abandi.</h2>
+        <hr>
+        <hr>
+        {% for i in imigani %}
+            <ul>
+                <li>{{ i.title }}</li>
+                <img src="{{ i.caricature.url }}" height="80" width="80" alt="Caricature-Y'{{ i.title }}">
+            </ul>
+        {% endfor %}
+    </div>
+</body>
+</html>

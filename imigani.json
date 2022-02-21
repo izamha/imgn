@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Intamenya Irira k'umuziro",
+    "meaning": "Kuba utazi cg udafite amakuru ahagije ku kintu bikongerera ibyago byo gukora amakosa menshi.",
+    "application": "Iyo umuntu ari kwishora mu byo atazi.",
+    "posted_by": "izamha",
+    "created_at": "30-Oct-2021",
+    "updated_at": "31-Oct-2021"
+  },
+  {
+    "id": 2,
+    "title": "Umushonji arota arya",
+    "meaning": "Icyo umuntu yifuza akenshi aba ashaka ko kiba impamo.",
+    "application": "Iyo wumva umuntu yahinduwe imbata n'ibyo ashaka ko biba.",
+    "posted_by": "izamha",
+    "created_at": "31-Oct-2021",
+    "updated_at": "31-Oct-2021"
+  },
+  {
+    "id": 3,
+    "title": "Akabura ntikaboneke n'Inyina w'Umuntu",
+    "meaning": "Mama w'Umuntu afite agaciro ntagereranywa",
+    "application": "Kwibutsa umuntu agaciro ka nyina umubyara cyangwa umubyeyi umurera.",
+    "created_by": "izamha",
+    "created_at": "05-Nov-2021",
+    "updated_at": "05-Nov-2021"
+  },
+  {
+    "id": 4,
+    "title": "Kuvuga biranoga, gukora bikaguma",
+    "meaning": "Biroroshye kugira ibitekerezo, ukanabitanga ariko kubishyira mu bikorwa biragora.",
+    "application": "Iyo wumva umuntu yashyize imbaraga mu jora ibyabandi bakoze.",
+    "posted_by": "user01",
+    "created_at": "05-Nov-2021",
+    "updated_at": "05-Nov-2021"
+  },
+  {
+    "id": 5,
+    "title": "Ubwenge bwari bwiza iyo butagirwa na bose",
+    "meaning": "Ntugashuke cyangwa ngo ubeshye abandi nkaho batabasha ku kuvumbura",
+    "application": "Iyo uvumbuye k'Umuntu ashaka ku guhenda ubwenge.",
+    "posted_by": "user01",
+    "created_at": "05-Nov-2021",
+    "updated_at": "05-Nov-2021"
+
+  }
+]
